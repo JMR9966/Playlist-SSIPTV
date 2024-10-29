@@ -1,0 +1,630 @@
+#EXTM3U
+#EXTINF:15840,LA7d (720p)
+#EXTVLCOPT:network-caching=1000
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:15712,LA7
+#EXTVLCOPT:network-caching=1000
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:14400,Sardegna Uno
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
+#EXTINF:3600,Juwelo Italia (480p)
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:3593,Telenorba (1080p)
+#EXTVLCOPT:network-caching=1000
+http://stream2.xdevel.com/video2s976570-2303/stream/playlist_dvr.m3u8
+#EXTINF:3601,TG Norba 24 (404p)
+#EXTVLCOPT:network-caching=1000
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:185,Inter TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:100,EWTN Europe (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:72,Peer TV Südtirol (1080p)
+#EXTVLCOPT:network-caching=1000
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:72,Peer TV South Tyrol (1280p)
+#EXTVLCOPT:network-caching=1000
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:60,Teleromagna (480p)
+#EXTVLCOPT:network-caching=1000
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:60,RDS Social TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:60,like Gecko) Mobile/15E148" - BBC World News (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:60,#EXTVLCOPT:network-caching=1000
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:54,Fashion TV
+#EXTVLCOPT:network-caching=1000
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,TR Sport (480p)
+#EXTVLCOPT:network-caching=1000
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:60,HorseTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/horsetv_720p/playlist.m3u8
+#EXTINF:60,MadeinBO TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:70,Passione Lotto (300p)
+#EXTVLCOPT:network-caching=1000
+http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
+#EXTINF:49,Bloomberg TV EMEA Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:54,CafeTV24 (720p)
+#EXTVLCOPT:network-caching=1000
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:60,Nautical Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/nautical_720p/playlist.m3u8
+#EXTINF:48,Telesirio Web TV (240p)
+#EXTVLCOPT:network-caching=1000
+https://www.telesirio.it/live/stream.m3u8
+#EXTINF:48,Bloomberg TV Europe (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:40,QVC Italia (540p)
+#EXTVLCOPT:network-caching=1000
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:38,TeleMia Extra (576p)
+#EXTVLCOPT:network-caching=1000
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:36,The Pet Collective
+#EXTVLCOPT:network-caching=1000
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Televisa Telenovelas
+#EXTVLCOPT:network-caching=1000
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Sportoutdoor.tv
+#EXTVLCOPT:network-caching=1000
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Comedy Movies
+#EXTVLCOPT:network-caching=1000
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Cinema Segreto
+#EXTVLCOPT:network-caching=1000
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Filmstream
+#EXTVLCOPT:network-caching=1000
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Mondo TV Kids
+#EXTVLCOPT:network-caching=1000
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:35,Rakuten Family
+#EXTVLCOPT:network-caching=1000
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,CG Entertainment
+#EXTVLCOPT:network-caching=1000
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:35,Cusano Italia TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:34,Bizzarro Movies
+#EXTVLCOPT:network-caching=1000
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Full Moon
+#EXTVLCOPT:network-caching=1000
+https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,WP Minerva Pictures
+#EXTVLCOPT:network-caching=1000
+https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:32,RTM TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:32,A2i TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:29,TV Qui (Modena) (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:31,TeleVenezia (576p)
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:29,Esperia TV (480p)
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:28,Onda Novara TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:37,TV Prato (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+#EXTINF:31,TeleRegione 118 (576p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:30,TVA (Vicenza) (720p)
+#EXTVLCOPT:network-caching=1000
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:30,Telejato (720p)
+#EXTVLCOPT:network-caching=1000
+https://telejato.liberotratto.com/hls/0/stream.m3u8
+#EXTINF:30,Insurance Connect (720p)
+#EXTVLCOPT:network-caching=1000
+https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
+#EXTINF:30,Primocanale (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:30,Italia 2 TV (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:30,Telefoggia (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:30,Telechiara (720p)
+#EXTVLCOPT:network-caching=1000
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:29,TeleMajg (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:30,Super TV Brescia (720p)
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:30,Icaro TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:30,L'altro Corriere TV (720P)
+#EXTVLCOPT:network-caching=1000
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:30,Azzurra TV (576p)
+#EXTVLCOPT:network-caching=1000
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:30,Canale 2 Altamura (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:30,Aurora Arte (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:30,SL48 TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:30,Gold TV Sat (576p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:30,Gold TV (576p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:31,San Marino RTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:30,TLT Molise (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:30,TV7 Benevento (288p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:30,RTC Quarta Rete (720p)
+#EXTVLCOPT:network-caching=1000
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:30,Medjugorje Italia TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:30,Telemantova (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:30,Rete TV Italia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:30,TeleMia (576p)
+#EXTVLCOPT:network-caching=1000
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:30,Rete Biella TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:28,Elive TV Brescia (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:30,Onda TV (568p)
+#EXTVLCOPT:network-caching=1000
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
+#EXTINF:30,Orler TV (420p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:29,Rete 8 VGA (720p)
+#EXTVLCOPT:network-caching=1000
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+#EXTINF:30,70-80 TV (1080P)
+#EXTVLCOPT:network-caching=1000
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:30,UniNettuno University TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:30,Telemolise (1080p)
+#EXTVLCOPT:network-caching=1000
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:30,èTv Marche (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:30,Giovanni Paolo TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:30,Rai 3 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:30,Prima TV Sicilia (720p)
+#EXTVLCOPT:network-caching=1000
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:29,TV 2000 (720p)
+#EXTVLCOPT:network-caching=1000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:29,Teletricolore (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:29,èTv Rete 7 (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:29,51 Radio TV (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:29,DI.TV 80 (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:29,PrimAntenna TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:29,Canale 7 (480p)
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:29,RTP (404p)
+#EXTVLCOPT:network-caching=1000
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:29,Tele Pavia (720p)
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:29,Tele Quattro (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:29,Reteveneta (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:29,Rete Oro (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:29,Entella TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:28,Telepace Trento (540p)
+#EXTVLCOPT:network-caching=1000
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:28,Euro TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:28,SuperSix Lombardia (720p)
+#EXTVLCOPT:network-caching=1000
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:28,San Marino RTV Sport (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:28,Iunior TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:28,Promovideo TV (486p)
+#EXTVLCOPT:network-caching=1000
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:28,Antenna 2 TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:28,La TR3 Marsala (720p)
+#EXTVLCOPT:network-caching=1000
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:28,Radio 51 TV (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:28,Donna TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:27,Il Testimone Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:26,Super! Pop Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Film Commedia Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Radio Piter Pan TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:25,Pluto TV Film Azione Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Film Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Documentary Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Geordie Shore Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Film Classici Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,World Poker Tour Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Il Banco dei Pugni Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,VH1+ Rock Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,VH1+ Music Legends Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,VH1+ Canzoni Italiane (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Western Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Crime Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,GO-TV Canale 163 (720p)
+#EXTVLCOPT:network-caching=1000
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:25,Catfish TV Show Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Cinema Italiano Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Anime Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pimp My Ride Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Renegade Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Viaggi Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Top Gear
+#EXTVLCOPT:http-referrer=https://pluto.tv/it/live-tv/64c109a4798def0008a6e03e
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Sport Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Serie Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Ridiculousness Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Mai Dire Sì Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Sci-Fi Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Reality Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,MacGyver Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Real Life Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Andromeda Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Just for Laughs Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Film Romantici Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Le Sorelle McLeod Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Scherzi e risate Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Teenage Mutant Ninja Turtles Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Settimo Cielo Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Natura Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,South Park Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Avatar La Leggenda di Aang Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Squadra Speciale Cobra 11 Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Horror Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Pluto TV Film Thriller Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Super! iCarly Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Super! Star Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Super! Victorious Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:25,Doctor Who Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:24,TeleTusciaSabina 2000 (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:24,Radio Taormina Sicilia (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:24,Quarto Canale Flegreo (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:24,Le Cronache TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:24,Trentino TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:24,Radio Birikina TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:24,TeleSanDomenico (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:24,Radio Ibiza TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:24,Telepace 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8
+#EXTINF:24,Telebelluno (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:24,Alto Adige TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:24,Radio Number One (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:24,TVL (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:24,Telepace Roma (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:24,Umbria TV (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:24,12 TV Parma (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:24,Telepace News (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+#EXTINF:24,Telepace 4 (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/index.m3u8
+#EXTINF:24,TGRT Europe (1080p)
+#EXTVLCOPT:network-caching=1000
+https://canli.tgrteu.com/tgrteu.m3u8
+#EXTINF:24,Telepace 3 (360p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8
+#EXTINF:24,Telepace 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/index.m3u8
+#EXTINF:23,NTN (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:23,TCI (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+#EXTINF:23,http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:23,TeleMistretta (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:23,Kiss Kiss TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:21,Company TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:21,#EXTVLCOPT:network-caching=1000
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:20,Extreme Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:network-caching=1000
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:18,Telefriuli (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:18,Telecolor Lombardia (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:18,Deejay TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:18,RTL 102.5 News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:18,Radio Freccia TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Romeo&Juliet (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:18,m2o TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:18,LaC News 24 (720p)
+#EXTVLCOPT:network-caching=1000
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:18,La C TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:18,Radio Zeta TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:15,Paci Contemporary Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:14,Camera dei Deputati (via RR) (240p)
+#EXTVLCOPT:network-caching=1000
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:14,Kiss Kiss Napoli TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:14,Teatro TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:12,TV Yes Italia (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:12,RTTR Trento (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:12,Tele Abruzzo (384p)
+#EXTVLCOPT:network-caching=1000
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:12,Adnkronos (720p)
+#EXTVLCOPT:network-caching=1000
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
+#EXTINF:12,Italia Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:12,Giornale Radio TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:5,TeleArena (480p)
+#EXTVLCOPT:network-caching=1000
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:6,TeleRama (576p)
+#EXTVLCOPT:network-caching=1000
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
